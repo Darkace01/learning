@@ -37,3 +37,6 @@ Algorithm: How to fetch data
 4. Greedy
 5. Brute force
 6. Randomized
+
+
+### Recursion Algorithm
