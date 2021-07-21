@@ -1,9 +1,26 @@
 # Big O(n)
 
+[https://www.bigocheatsheet.com](Check this Out)
 Whats is a good code?
 
 - Readable
 - Scalable
+  [x] Speed
+  [x] Memory
+
+| Symbol     | Title              | Description                                  |
+| ---------- | ------------------ | -------------------------------------------- |
+| O(n)       | Linear Time        | for loops, while loops through n items       |
+| O(1)       | Constant Time      | no loops                                     |
+| O(log n)   | Logarithmic Time   | for loops, while loops through log n items   |
+| O(n log n) | n Logarithmic Time | for loops, while loops through n log n items |
+| O(n^2)     | Quadratic Time     | for loops, while loops through n^2 items     |
+| O(n^3)     | Cubic Time         | for loops, while loops through n^3 items     |
+| O(2^n)     | Exponential Time   | for loops, while loops through 2^n items     |
+| O(n!)      | Factorial Time     | for loops, while loops through n! items      |
+| O(n^k)     | k-th Power Time    | for loops, while loops through n^k items     |
+| O(n!)      | Factorial Time     | for loops, while loops through n! items      |
+| O(n!)      | Factorial Time     | for loops, while loops through n! items      |
 
 ### O(n) - Linear Time -- for loops, while loops through n items
 
