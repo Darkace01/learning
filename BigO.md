@@ -1,12 +1,13 @@
 # Big O(n)
 
 [https://www.bigocheatsheet.com](Check this Out)
-Whats is a good code?
 
-- Readable
-- Scalable
-  [x] Speed
-  [x] Memory
+# Whats is a good code?
+
+1. Readable
+2. Scalable
+   - Speed
+   - Memory
 
 | Symbol     | Title              | Description                                  |
 | ---------- | ------------------ | -------------------------------------------- |
