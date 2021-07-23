@@ -1,6 +1,7 @@
 # Big O(n)
 
 [https://www.bigocheatsheet.com](Check this Out)
+[https://coggle.it/diagram/W5u8QkZs6r4sZM3J/t/master-the-interview](Also This)
 
 # Whats is a good code?
 
@@ -46,3 +47,15 @@
    - for steps in order
    * for nested steps
 4. Drop non dormant terms
+
+### Memory
+
+- Heap (Store Variables)
+- Stack (Keep track of function calls)
+
+# What causes space complexity?
+
+- Variables
+- Data Structures
+- Function call
+- Allocations

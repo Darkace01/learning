@@ -13,21 +13,23 @@ Algorithm: How to fetch data
 ### Types Of Data Structures
 
 1. Primitive Data structures
-   - [ ] Integer
-   - [ ] Float
-   - [ ] Float
-   - [ ] Character
-   - [ ] String
-   - [ ] Boolean
+   - [x] Integer
+   - [x] Float
+   - [x] Float
+   - [x] Character
+   - [x] String
+   - [x] Boolean
 2. Non-Primitive Data Structures
    - [x] Linear
    - [ ] Static
-   1. Array -[x] Dynamic
+   1. Array
+      - [x] Dynamic
    1. Linked List
    1. Stack
-   1. Queue -[x] Non Linear
-   - [ ] Tree
-   - [ ] Graph
+   1. Queue
+      - [x] Non Linear
+        - [ ] Tree
+        - [ ] Graph
 
 ### Types of Algorithm
 
@@ -38,5 +40,9 @@ Algorithm: How to fetch data
 5. Brute force
 6. Randomized
 
+### Area of focus in algorithms
 
-### Recursion Algorithm
+1. Sorting
+2. Dynamic Programming
+3. BFS + DFS (Searching)
+4. Recursion
