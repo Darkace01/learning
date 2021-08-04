@@ -46,3 +46,27 @@ Algorithm: How to fetch data
 2. Dynamic Programming
 3. BFS + DFS (Searching)
 4. Recursion
+
+CPU - Runs the application
+RAM - You loose data when you power off the computer
+Storage - Data is persistent
+
+### Data Structure
+
+A data structure is an arrangement of data that is used to represent a particular problem.
+
+## Array
+
+The reason why we use array to look up data or for most data structures is that it is very fast and we already know the position of the data.
+
+[x] lookup O(1)
+[x] insert O(n)
+[x] delete O(n)
+[x] push O(1)
+[x] pop O(1)
+
+# Optional Classes in Javascript
+
+- Reference Type
+- Context 'This is often confused with scope' 'Scope is created with a curly brace'
+- Instantiation 'Creating an object'
