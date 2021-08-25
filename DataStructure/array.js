@@ -86,3 +86,31 @@ const wizard2 = new Wizard('Hermione', 'Wizard');
 
 wizard1.play();
 wizard2.introduce();
+
+//Creating My array
+
+class MyArray {
+    constructor() {
+        this.length = 0;
+        this.data = {};
+    }
+
+    get(index) {
+        return this.data[index];
+    }
+
+    push(item) {
+        this.data[this.length] = item;
+        this.length++;
+        return this.length;
+    }
+
+    pop() {
+        const lastItem = this.data[this.length - 1];
+        delete this.data[this.length - 1];
+    }
+}
+ 
+const newArray = new MyArray();
+newArray.push('Hello');
+console.log(newArray);
