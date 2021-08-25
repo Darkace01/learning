@@ -2,9 +2,9 @@
 
 ## Required Packages
 
-- []: # Application: [npm](https://www.npmjs.com/)
-- []: # Application: [jupyter notebook](https://jupyter.org/)
-- []: # VSCode Extension: [jupyterlab](https://marketplace.visualstudio.com/items?itemName=jupyterlab.jupyterlab)
+- # Application: [npm](https://www.npmjs.com/)
+- # Application: [jupyter notebook](https://jupyter.org/)
+- # VSCode Extension: [jupyterlab](https://marketplace.visualstudio.com/items?itemName=jupyterlab.jupyterlab)
   This is a basic list of things I have learnt and what I plan on learning in the future
 
 - [x] HTML Fundamental
